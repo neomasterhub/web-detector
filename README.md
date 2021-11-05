@@ -1,1 +1,1 @@
-# web-detector 
+https://neomasterhub.github.io/web-detector/
